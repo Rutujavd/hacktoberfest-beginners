@@ -3,15 +3,15 @@
 ### Add your Profile
     Add your profile page to the profiles directory using the given convention.
 
-> # Your Name
+> # Rutuja Dicholkar
 > ### Location
-> Your City/Country
+> Mumbai,India
 > ### Academics
-> Your School
+> Vidyalankar Institute Of Technology
 >
 >### Interests
 >
->- Some Things You Like
+>- Coding,Exploring upcoming changes
 >
 >### Development
 >
@@ -19,8 +19,8 @@
 >
 >### Projects
 >
->[My Project](GitHub Link) Short >Description
+>[My Project](https://github.com/Rutujavd) 
 >
 >### Profile Link
 >
->[Your Name](GitHub Link)
+>[Rutuja Dicholkar](https://github.com/Rutujavd)
