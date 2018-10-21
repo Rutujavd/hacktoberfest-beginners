@@ -97,4 +97,9 @@
  - Place: Surat, Gujarat, India
  - Bio: Cricketer && Entrepreneur enthusiast && ML developer === true
  - GitHub: [shravankumar9892](https://github.com/shravankumar9892) 
+ 
+#### Name: [Rutuja Dicholkar](https://github.com/Rutujavd)
+ - Place: Mumbai,Maharashtra,India
+ - Bio: Tech Learner
+ - GitHub: [Rutujavd](https://github.com/Rutujavd)
 
